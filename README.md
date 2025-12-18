@@ -149,12 +149,5 @@ Scheduled AI news digests
 
 Analytics dashboard for engagement tracking
 
-📌 Project Status
-
 ---
 
-# 🚀 HOW TO PUSH TO GITHUB (SAFE & CLEAN)
-
-Follow **exactly in this order**.
-
----
