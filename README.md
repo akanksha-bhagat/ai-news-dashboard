@@ -151,3 +151,19 @@ Analytics dashboard for engagement tracking
 
 ---
 
+## 📸 Application Screenshots
+
+### 📰 Latest AI News Dashboard
+![Latest News](Screenshots/screenshots/dashboard_latest_news.png)
+
+### 🔍 Semantic Search (RAG-based)
+![Semantic Search](Screenshots/screenshots/semantic_search.png)
+
+### ⭐ Favorites Management
+![Favorites](Screenshots/screenshots/favorites_page.png)
+
+### 📤 Broadcast Feature (Email / LinkedIn / WhatsApp)
+![Broadcast Action](Screenshots/screenshots/broadcast_action.png)
+
+### 🗂️ Broadcast Logs (Database)
+![Broadcast Logs](Screenshots/screenshots/broadcast_logs_db.png)
