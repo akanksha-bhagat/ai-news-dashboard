@@ -140,16 +140,6 @@ Broadcast selected articles via Email, LinkedIn, WhatsApp, or Newsletter
 
 View broadcast logs in the database
 
-📈 Future Enhancements
-
-Real third-party integrations (Mailchimp, LinkedIn API, Twilio)
-
-User authentication and personalization
-
-Scheduled AI news digests
-
-Analytics dashboard for engagement tracking
-
 ---
 
 ## 📸 Application Screenshots
